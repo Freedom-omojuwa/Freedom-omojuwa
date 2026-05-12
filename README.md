@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://x.com/FreedomOmojuwa">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
+  <img src="https://img.shields.io/badge/X-FreedomOmojuwa-black?style=for-the-badge" alt="X Profile">
 </a>
 
 <a href="mailto:freedomomojuwa@gmail.com">
