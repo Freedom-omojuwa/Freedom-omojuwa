@@ -18,7 +18,7 @@
 </a>
 
 <a href="mailto:freedomomojuwa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-freedomomojuwa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
 </a>
 
 </p>
