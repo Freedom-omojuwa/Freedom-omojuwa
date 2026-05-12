@@ -10,7 +10,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/freedom-omojuwa-1a64b8249">
-  <img src="https://img.shields.io/badge/LinkedIn-Freedom%20Omojuwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
 <a href="https://x.com/FreedomOmojuwa">
