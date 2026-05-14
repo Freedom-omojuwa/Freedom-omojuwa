@@ -37,7 +37,7 @@ Outside of data work, I enjoy playing football, video editing, graphic design, a
 ## 🔭 What I'm Currently Working On
 
 - **Automated Request Slip System:** Built a digital workflow that replaces paper-based request slips using Google Forms, Sheets, and AutoCrat to generate instant approval documents.
-- **Data Analytics Projects:** Improving my skills in data cleaning, dashboard building, and business reporting using Excel and Power BI.
+- **Data Analytics Projects:** Creating hands-on projects focused on data cleaning, dashboard development, data visualization, and business reporting using Excel and Power BI.
 - **Building My Online Presence:** Growing my professional brand on LinkedIn and X by sharing insights and projects around data and automation.
 
 ## 🌱 Currently Learning
