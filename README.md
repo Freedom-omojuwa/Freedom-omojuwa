@@ -32,7 +32,7 @@ My interests include dashboard development, data cleaning automation, and buildi
 Outside of data work, I enjoy playing football, video editing, graphic design, and gaming. I’m especially drawn to creative problem-solving and the satisfaction of discovering insights hidden in data.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://freedom-omojuwa.github.io/)
       
 ## 🔭 What I'm Currently Working On
 
